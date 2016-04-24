@@ -1,0 +1,29 @@
+{
+  "subtitle": "What is BabyCenter?", 
+  "description": "sjsldkjfs", 
+  "language": "eng_GB", 
+  "title": "What is BabyCenter?", 
+  "primary_category": "0422d6142f8647d3a1ab81c4b3cd1b5a", 
+  "created_at": "2016-04-24T14:18:06.418301+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-04-24T14:18:06.418562+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "vcbc", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "what-babycenter", 
+  "uuid": "a3e48bef94de4d1992f95de03f442fe6"
+}
